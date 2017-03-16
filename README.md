@@ -1,4 +1,4 @@
-React Native总结
+React Native笔记
 ==
 
 ## 目录<br/>
