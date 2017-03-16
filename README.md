@@ -18,14 +18,18 @@ React Native总结
 
    是NodeJs版本管理工具，可安装多个node版本进行管理
    * nvm: 配置淘宝镜像，修改settings.txt
+   ```
       root: D:\dev\nvm
       path: D:\dev\nodejs
       node_mirror: http://npm.taobao.org/mirrors/node/ 
       npm_mirror: https://npm.taobao.org/mirrors/npm/
+   ```
    * 命令:
+   ```
       nvm install 6.10.0  安装node
       nvm list		  已安装node版本列表
       nvm use 6.10.0    选中当前使用版本
+   ```
 
 #### npm
 ----------------------------------------------------
