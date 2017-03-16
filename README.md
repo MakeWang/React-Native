@@ -42,3 +42,25 @@ React Native总结
 
 #### babel
 ----------------------------------------------------
+
+     将ES6转化成ES5脚本。
+     
+     全局安装：npm install -g babel-cli
+     
+     使用npm创建一个nodejs工程：
+     
+     进入当前文件夹：npm init
+     
+     当前项目中安装转换插件工具（插件中的js代码，用于转换）
+     
+     npm install babel-preset-es2015 –save
+     
+     手动将ES6转换成ES5（这个是在服务端替换）
+     babel es6.js --out-file es5.js --presets es2015
+     
+     自动转换（直接将ES6下载到本地替换）
+     babel es6.js -w --out-file es5.js --presets es2015
+     
+     在页面中实时转换，需要安装一个工具
+     npm install babel-core@5 –save
+
