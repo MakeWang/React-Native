@@ -1,6 +1,49 @@
 React Native总结
 ==
-## NodeJs安装步骤：</br>	
+
+## 目录<br/>
+* [NodeJs安装步骤](#NodeJs安装步骤)
+    * nvm
+    * npm
+    * babel
+<br/>
+<br/>
+<br/><br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+# NodeJs安装步骤：</br>	
 nvm： 是NodeJs版本管理工具，可安装多个node版本进行管理。</br>
 nvm配置淘宝镜像，修改settings.txt。</br>
 root: D:\dev\nvm</br>
