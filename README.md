@@ -4,8 +4,8 @@ React Native总结
 ## 目录<br/>
 * [nodejs环境安装](#nodejs环境安装)
     * [nvm](#nvm)
-    * [npm](#npm) 
-    * [babel](#babel)
+    * [npm](#npm)
+    * [babel](#babel)
 
 ### nodejs环境安装
 ----------------------------------------------------
