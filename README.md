@@ -3,7 +3,7 @@ React Native总结
 
 ## 目录<br/>
 * [NodeJs环境安装](#NodeJs环境安装)
-    * [nvm](#nvm)
+    * nvm
     * npm
     * babel
    
