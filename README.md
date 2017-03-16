@@ -63,4 +63,10 @@ React Native总结
      
      在页面中实时转换，需要安装一个工具
      npm install babel-core@5 –save
+     
+     使用Browsersync实时刷新页面（可以快速响应文件刷新界面）
+     安装：npm install -g browser-sync
+     在当前项目下启动Browsersync，开始监听：
+     browser-sync start --server --files "**"
+     访问时需要前面加上Local:http://localhost:3000
 
